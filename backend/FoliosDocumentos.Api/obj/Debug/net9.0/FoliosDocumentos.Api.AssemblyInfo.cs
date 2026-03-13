@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FoliosDocumentos.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ddb9b082942d644ed8c31915490a11ed441935f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FoliosDocumentos.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FoliosDocumentos.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

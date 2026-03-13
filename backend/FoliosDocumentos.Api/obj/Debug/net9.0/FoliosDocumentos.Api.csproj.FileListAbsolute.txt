@@ -158,3 +158,4 @@ C:\Users\mquintana\Documents\GitHub\FoliosDocumentos\backend\FoliosDocumentos.Ap
 C:\Users\mquintana\Documents\GitHub\FoliosDocumentos\backend\FoliosDocumentos.Api\obj\Debug\net9.0\FoliosDocumentos.Api.pdb
 C:\Users\mquintana\Documents\GitHub\FoliosDocumentos\backend\FoliosDocumentos.Api\obj\Debug\net9.0\FoliosDocumentos.Api.genruntimeconfig.cache
 C:\Users\mquintana\Documents\GitHub\FoliosDocumentos\backend\FoliosDocumentos.Api\obj\Debug\net9.0\ref\FoliosDocumentos.Api.dll
+C:\Users\mquintana\Documents\GitHub\FoliosDocumentos\backend\FoliosDocumentos.Api\obj\Debug\net9.0\FoliosDocumentos.Api.sourcelink.json

@@ -31,6 +31,8 @@ builder.Services.AddAuthorization();
 
 builder.Services.AddScoped<IEventRepository, EventRepository>();
 builder.Services.AddScoped<IEventService, EventService>();
+builder.Services.AddScoped<ITemplateRepository, TemplateRepository>();
+builder.Services.AddScoped<ITemplateService, TemplateService>();
 
 builder.Services.AddControllers();
 

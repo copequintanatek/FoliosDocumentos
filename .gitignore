@@ -1,0 +1,25 @@
+# .NET build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+.vs/
+
+# NuGet
+*.nupkg
+packages/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Frontend build
+frontend/dist/
+frontend/node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
